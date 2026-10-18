@@ -1,0 +1,685 @@
+{
+  "complaints": [
+    {
+      "id": "CIV-2026-1041",
+      "title": "Deep Hazardous Pothole on Outer Ring Road, Bellandur",
+      "description": "Large pothole approximately 12 inches deep in the right-hand lane near EcoSpace. Two-wheelers and autos are swerving dangerously into oncoming traffic lanes to avoid accidents.",
+      "category": "pothole",
+      "priority": "high",
+      "status": "in_progress",
+      "latitude": 12.9352,
+      "longitude": 77.6772,
+      "address": "Outer Ring Road, Bellandur, Ward 150, Bengaluru - 560103, Karnataka, India",
+      "landmark": "Opposite EcoSpace Tech Park Gate 2",
+      "imageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?auto=format&fit=crop&w=800&q=80",
+      "department": "BBMP Road Infrastructure & Public Works",
+      "assignedOfficer": "Exec. Eng. K. Ramesh (BBMP Mahadevapura)",
+      "userId": "cit-001",
+      "userName": "Priya Sharma",
+      "userEmail": "priya.sharma@gmail.com",
+      "createdAt": "2026-10-15T10:15:49.276Z",
+      "updatedAt": "2026-10-17T10:15:49.276Z",
+      "aiAnalysis": {
+        "categorySuggestion": "pothole",
+        "prioritySuggestion": "high",
+        "confidence": 0.95,
+        "rationale": "Active traffic hazard on arterial Outer Ring Road corridor. High collision probability for two-wheelers and buses.",
+        "detectedKeywords": [
+          "pothole",
+          "deep",
+          "swerving",
+          "outer ring road",
+          "bellandur"
+        ],
+        "isDuplicate": false,
+        "hazardLevel": "severe",
+        "recommendedDepartment": "BBMP Road Infrastructure & Public Works",
+        "estimatedResolutionDays": 2
+      },
+      "timeline": [
+        {
+          "id": "t-1",
+          "status": "submitted",
+          "timestamp": "2026-10-15T10:15:49.276Z",
+          "message": "Complaint submitted by Priya Sharma with GPS coordinates in Bengaluru.",
+          "actorName": "Priya Sharma",
+          "actorRole": "citizen"
+        },
+        {
+          "id": "t-2",
+          "status": "under_review",
+          "timestamp": "2026-10-15T22:15:49.276Z",
+          "message": "AI prioritized as HIGH due to vehicular collision hazard on ORR corridor.",
+          "actorName": "CivicMap AI Auto-Triage",
+          "actorRole": "system_ai"
+        },
+        {
+          "id": "t-3",
+          "status": "assigned",
+          "timestamp": "2026-10-16T10:15:49.276Z",
+          "message": "Assigned to BBMP Rapid Road Repair Unit #4.",
+          "actorName": "Chief Dispatcher Sandra Collins",
+          "actorRole": "admin"
+        },
+        {
+          "id": "t-4",
+          "status": "in_progress",
+          "timestamp": "2026-10-17T10:15:49.276Z",
+          "message": "BBMP road gang deployed on-site with hot-mix asphalt and safety barricades.",
+          "actorName": "Exec. Eng. K. Ramesh",
+          "actorRole": "department_officer"
+        }
+      ],
+      "upvotes": 38,
+      "isDuplicate": false
+    },
+    {
+      "id": "CIV-2026-1042",
+      "title": "Severe BWSSB Potable Water Main Rupture Flooding 100 Feet Road",
+      "description": "Underground drinking water feeder pipe ruptured. Clean water gushing at high pressure, flooding multiple storefronts and causing sub-road erosion near metro station.",
+      "category": "water_supply",
+      "priority": "critical",
+      "status": "under_review",
+      "latitude": 12.9719,
+      "longitude": 77.6412,
+      "address": "100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru - 560038, Karnataka, India",
+      "landmark": "Near Indiranagar Metro Station Pillar 142",
+      "imageUrl": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?auto=format&fit=crop&w=800&q=80",
+      "department": "Bangalore Water Supply and Sewerage Board (BWSSB)",
+      "assignedOfficer": "Chief Eng. S. Sundararajan (BWSSB East)",
+      "userId": "cit-002",
+      "userName": "Rajesh Kumar",
+      "userEmail": "rajesh.k@gmail.com",
+      "createdAt": "2026-10-18T06:15:49.276Z",
+      "updatedAt": "2026-10-18T09:15:49.276Z",
+      "aiAnalysis": {
+        "categorySuggestion": "water_supply",
+        "prioritySuggestion": "critical",
+        "confidence": 0.98,
+        "rationale": "High pressure drinking water loss, foundation flooding, and traffic obstruction on major commercial road.",
+        "detectedKeywords": [
+          "ruptured",
+          "gushing",
+          "high pressure",
+          "drinking water",
+          "indiranagar"
+        ],
+        "isDuplicate": false,
+        "hazardLevel": "life_safety",
+        "recommendedDepartment": "Bangalore Water Supply and Sewerage Board (BWSSB)",
+        "estimatedResolutionDays": 1
+      },
+      "timeline": [
+        {
+          "id": "t-10",
+          "status": "submitted",
+          "timestamp": "2026-10-18T06:15:49.276Z",
+          "message": "Emergency report filed with photo proof of pipeline burst.",
+          "actorName": "Rajesh Kumar",
+          "actorRole": "citizen"
+        },
+        {
+          "id": "t-11",
+          "status": "under_review",
+          "timestamp": "2026-10-18T06:45:49.276Z",
+          "message": "AI Emergency Escalation: Alert sent to BWSSB Central Control Room.",
+          "actorName": "CivicMap AI System",
+          "actorRole": "system_ai"
+        }
+      ],
+      "upvotes": 52,
+      "isDuplicate": false
+    },
+    {
+      "id": "CIV-2026-1038",
+      "title": "Massive Overflowing Municipal Garbage Dumper at Central Market",
+      "description": "Community garbage bins overflowing for 4 days. Waste spilled over pedestrian walking corridor with stray cattle and dogs tearing bags across the market road.",
+      "category": "garbage",
+      "priority": "high",
+      "status": "assigned",
+      "latitude": 28.57,
+      "longitude": 77.24,
+      "address": "Central Market, Block J, Lajpat Nagar II, South Delhi - 110024, Delhi, India",
+      "landmark": "Opposite Gurudwara Road Market Corner",
+      "imageUrl": "https://images.unsplash.com/photo-1605600659908-0ef719419d41?auto=format&fit=crop&w=800&q=80",
+      "department": "Solid Waste Management & Swachh Bharat Cell",
+      "assignedOfficer": "Sanitation Inspector R. P. Meena (MCD)",
+      "userId": "cit-003",
+      "userName": "Arjun Reddy",
+      "userEmail": "arjun.reddy@gmail.com",
+      "createdAt": "2026-10-16T10:15:49.276Z",
+      "updatedAt": "2026-10-17T10:15:49.276Z",
+      "aiAnalysis": {
+        "categorySuggestion": "garbage",
+        "prioritySuggestion": "high",
+        "confidence": 0.96,
+        "rationale": "Public health hazard, vector-borne disease risk, biological odor pollution in dense commercial market district.",
+        "detectedKeywords": [
+          "overflowed",
+          "rotting waste",
+          "stray animals",
+          "foul smell",
+          "lajpat nagar"
+        ],
+        "isDuplicate": false,
+        "hazardLevel": "severe",
+        "recommendedDepartment": "Solid Waste Management & Swachh Bharat Cell",
+        "estimatedResolutionDays": 1
+      },
+      "timeline": [
+        {
+          "id": "t-20",
+          "status": "submitted",
+          "timestamp": "2026-10-16T10:15:49.276Z",
+          "message": "Report submitted by Arjun Reddy in South Delhi.",
+          "actorName": "Arjun Reddy",
+          "actorRole": "citizen"
+        },
+        {
+          "id": "t-21",
+          "status": "assigned",
+          "timestamp": "2026-10-17T10:15:49.276Z",
+          "message": "Compactor Truck #18 routed for emergency clearance and bin sanitization.",
+          "actorName": "Sanitation Bureau Dispatch",
+          "actorRole": "admin"
+        }
+      ],
+      "upvotes": 27,
+      "isDuplicate": false
+    },
+    {
+      "id": "CIV-2026-1035",
+      "title": "Damaged Streetlight Pole on Linking Road",
+      "description": "Commercial delivery truck hit the streetlight pole. Light fixture hanging loose by wires and pedestrian crossing completely pitch black at night.",
+      "category": "streetlight",
+      "priority": "medium",
+      "status": "resolved",
+      "latitude": 19.0596,
+      "longitude": 72.8295,
+      "address": "Linking Road, Bandra West, Ward H/W, Mumbai - 400050, Maharashtra, India",
+      "landmark": "Near National College Junction",
+      "imageUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32f?auto=format&fit=crop&w=800&q=80",
+      "resolvedImageUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=800&q=80",
+      "department": "BESCOM / BSES Urban Electrical & Lighting Board",
+      "assignedOfficer": "Assistant Engineer Manoj Patil",
+      "userId": "cit-004",
+      "userName": "Ananya Iyer",
+      "userEmail": "ananya.i@gmail.com",
+      "createdAt": "2026-10-12T10:15:49.276Z",
+      "updatedAt": "2026-10-17T10:15:49.276Z",
+      "resolvedAt": "2026-10-17T10:15:49.276Z",
+      "resolutionNotes": "Pole realigned, safety bracket secured, high-efficiency 65W LED luminaire replaced and verified functional on municipal grid test.",
+      "aiAnalysis": {
+        "categorySuggestion": "streetlight",
+        "prioritySuggestion": "medium",
+        "confidence": 0.92,
+        "rationale": "Public safety hazard due to reduced illumination and loose overhead fixture risk on busy pedestrian shopping corridor.",
+        "detectedKeywords": [
+          "streetlight",
+          "broken pole",
+          "hanging loose",
+          "pitch black",
+          "bandra"
+        ],
+        "isDuplicate": false,
+        "hazardLevel": "moderate",
+        "recommendedDepartment": "BESCOM / BSES Urban Electrical & Lighting Board",
+        "estimatedResolutionDays": 3
+      },
+      "timeline": [
+        {
+          "id": "t-30",
+          "status": "submitted",
+          "timestamp": "2026-10-12T10:15:49.276Z",
+          "message": "Issue reported with Bandra West coordinates.",
+          "actorName": "Ananya Iyer",
+          "actorRole": "citizen"
+        },
+        {
+          "id": "t-31",
+          "status": "in_progress",
+          "timestamp": "2026-10-15T10:15:49.276Z",
+          "message": "Electrical repair boom truck dispatched with replacement luminaire.",
+          "actorName": "Assistant Engineer Manoj Patil",
+          "actorRole": "department_officer"
+        },
+        {
+          "id": "t-32",
+          "status": "resolved",
+          "timestamp": "2026-10-17T10:15:49.276Z",
+          "message": "Resolution confirmed with post-repair photo and photometric verification.",
+          "actorName": "Commissioner Dr. K. Radhakrishnan",
+          "actorRole": "admin",
+          "photoUrl": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?auto=format&fit=crop&w=800&q=80"
+        }
+      ],
+      "upvotes": 36,
+      "isDuplicate": false
+    },
+    {
+      "id": "CIV-2026-1033",
+      "title": "Storm Drain (Rajakaluve) Choked with Plastic and Silt",
+      "description": "Stormwater drain inlet completely choked with dried concrete residue, gravel, and single-use plastics. Heavy monsoon showers will cause severe street backflow at Silk Board.",
+      "category": "drainage",
+      "priority": "high",
+      "status": "in_progress",
+      "latitude": 12.9172,
+      "longitude": 77.6229,
+      "address": "Central Silk Board Junction, Hosur Road, BTM Layout, Bengaluru - 560068, Karnataka, India",
+      "landmark": "Near Silk Board Flyover Ramp",
+      "imageUrl": "https://images.unsplash.com/photo-1527018601619-a508a2be00be?auto=format&fit=crop&w=800&q=80",
+      "department": "Stormwater Drains (SWD) & Flood Control Authority",
+      "assignedOfficer": "Supt. Eng. Govind Raj (SWD South)",
+      "userId": "cit-005",
+      "userName": "Vikram Patel",
+      "userEmail": "vikram.p@gmail.com",
+      "createdAt": "2026-10-16T10:15:49.276Z",
+      "updatedAt": "2026-10-18T04:15:49.276Z",
+      "aiAnalysis": {
+        "categorySuggestion": "drainage",
+        "prioritySuggestion": "high",
+        "confidence": 0.95,
+        "rationale": "Blockage prevents storm runoff; imminent rainfall poses high urban localized flooding risk at major junction.",
+        "detectedKeywords": [
+          "storm drain",
+          "choked",
+          "rajakaluve",
+          "silk board",
+          "backflow"
+        ],
+        "isDuplicate": false,
+        "hazardLevel": "severe",
+        "recommendedDepartment": "Stormwater Drains (SWD) & Flood Control Authority",
+        "estimatedResolutionDays": 1
+      },
+      "timeline": [
+        {
+          "id": "t-40",
+          "status": "submitted",
+          "timestamp": "2026-10-16T10:15:49.276Z",
+          "message": "Drainage blockage reported by Vikram Patel.",
+          "actorName": "Vikram Patel",
+          "actorRole": "citizen"
+        },
+        {
+          "id": "t-41",
+          "status": "in_progress",
+          "timestamp": "2026-10-18T04:15:49.276Z",
+          "message": "Hydro-jet vacuum suction and desilting machinery deployed to clear culvert.",
+          "actorName": "Supt. Eng. Govind Raj",
+          "actorRole": "department_officer"
+        }
+      ],
+      "upvotes": 45,
+      "isDuplicate": false
+    },
+    {
+      "id": "CIV-2026-1030",
+      "title": "Broken and Uplifted Footpath Paver Slabs on MG Road",
+      "description": "Tree root has thrust granite footpath slabs upward by 4 inches creating a severe tripping hazard. Elderly pedestrians have stumbled twice this week.",
+      "category": "road_damage",
+      "priority": "medium",
+      "status": "resolved",
+      "latitude": 12.9756,
+      "longitude": 77.6066,
+      "address": "MG Road, Shivaji Nagar, Ward 110, Bengaluru - 560001, Karnataka, India",
+      "landmark": "Near Barton Centre Pedestrian Walkway",
+      "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=800&q=80",
+      "resolvedImageUrl": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?auto=format&fit=crop&w=800&q=80",
+      "department": "BBMP Road Infrastructure & Public Works",
+      "assignedOfficer": "Ward Inspector C. Nagaraj",
+      "userId": "cit-001",
+      "userName": "Priya Sharma",
+      "userEmail": "priya.sharma@gmail.com",
+      "createdAt": "2026-10-11T10:15:49.276Z",
+      "updatedAt": "2026-10-16T10:15:49.276Z",
+      "resolvedAt": "2026-10-16T10:15:49.276Z",
+      "resolutionNotes": "Root trimmed with forest cell permission, paver blocks leveled and relaid with non-slip aggregate.",
+      "aiAnalysis": {
+        "categorySuggestion": "road_damage",
+        "prioritySuggestion": "medium",
+        "confidence": 0.91,
+        "rationale": "Pedestrian tripping hazard in high-density retail and metro corridor.",
+        "detectedKeywords": [
+          "cracked footpath",
+          "uplifted",
+          "tripping hazard",
+          "mg road"
+        ],
+        "isDuplicate": false,
+        "hazardLevel": "moderate",
+        "recommendedDepartment": "BBMP Road Infrastructure & Public Works",
+        "estimatedResolutionDays": 5
+      },
+      "timeline": [
+        {
+          "id": "t-50",
+          "status": "submitted",
+          "timestamp": "2026-10-11T10:15:49.276Z",
+          "message": "Report filed by Priya Sharma.",
+          "actorName": "Priya Sharma",
+          "actorRole": "citizen"
+        },
+        {
+          "id": "t-51",
+          "status": "resolved",
+          "timestamp": "2026-10-16T10:15:49.276Z",
+          "message": "Footpath paver relaying complete with certified inspection.",
+          "actorName": "Ward Inspector C. Nagaraj",
+          "actorRole": "admin"
+        }
+      ],
+      "upvotes": 29,
+      "isDuplicate": false
+    },
+    {
+      "id": "CIV-2026-1043",
+      "title": "Massive Crater Pothole on Outer Ring Road Bellandur",
+      "description": "Crater hole in road right near EcoSpace flyover ramp. Very dangerous for two-wheelers and autos.",
+      "category": "pothole",
+      "priority": "high",
+      "status": "submitted",
+      "latitude": 12.9355,
+      "longitude": 77.6775,
+      "address": "Outer Ring Road, Bellandur, Ward 150, Bengaluru - 560103, Karnataka, India",
+      "landmark": "Near EcoSpace Flyover Ramp",
+      "imageUrl": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?auto=format&fit=crop&w=800&q=80",
+      "department": "BBMP Road Infrastructure & Public Works",
+      "userId": "cit-003",
+      "userName": "Arjun Reddy",
+      "userEmail": "arjun.reddy@gmail.com",
+      "createdAt": "2026-10-18T08:15:49.276Z",
+      "updatedAt": "2026-10-18T08:15:49.276Z",
+      "aiAnalysis": {
+        "categorySuggestion": "pothole",
+        "prioritySuggestion": "high",
+        "confidence": 0.96,
+        "rationale": "AI detected 42 meters proximity and 89% semantic match to existing complaint CIV-2026-1041 on Outer Ring Road.",
+        "detectedKeywords": [
+          "pothole",
+          "outer ring road",
+          "ecospace",
+          "two-wheelers"
+        ],
+        "isDuplicate": true,
+        "duplicateOfId": "CIV-2026-1041",
+        "duplicateConfidence": 0.93,
+        "duplicateReason": "Located only 42 meters from CIV-2026-1041 with identical road damage description on ORR corridor.",
+        "hazardLevel": "severe",
+        "recommendedDepartment": "BBMP Road Infrastructure & Public Works",
+        "estimatedResolutionDays": 2
+      },
+      "timeline": [
+        {
+          "id": "t-60",
+          "status": "submitted",
+          "timestamp": "2026-10-18T08:15:49.276Z",
+          "message": "Report submitted. AI Auto-flagged as potential duplicate of CIV-2026-1041 on ORR corridor.",
+          "actorName": "Arjun Reddy",
+          "actorRole": "citizen"
+        }
+      ],
+      "upvotes": 9,
+      "isDuplicate": true,
+      "duplicateOfId": "CIV-2026-1041"
+    }
+  ],
+  "users": [
+    {
+      "id": "cit-001",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@gmail.com",
+      "phone": "8688258008",
+      "role": "citizen",
+      "ward": "Ward 150 - Bellandur, Bengaluru",
+      "createdAt": "2026-01-15T10:00:00.000Z",
+      "lastLogin": "2026-10-18T10:39:31.095Z"
+    },
+    {
+      "id": "cit-002",
+      "name": "Rajesh Kumar",
+      "email": "rajesh.k@gmail.com",
+      "phone": "9825012345",
+      "role": "citizen",
+      "ward": "Ward 112 - Indiranagar, Bengaluru",
+      "createdAt": "2026-02-01T11:20:00.000Z",
+      "lastLogin": "2026-10-18T07:30:00.000Z"
+    },
+    {
+      "id": "cit-003",
+      "name": "Aarav Patel",
+      "email": "aarav.patel@gmail.com",
+      "phone": "9825012345",
+      "role": "citizen",
+      "ward": "Ward 12 - Navrangpura, Ahmedabad",
+      "createdAt": "2026-02-15T09:00:00.000Z",
+      "lastLogin": "2026-10-18T06:00:00.000Z"
+    },
+    {
+      "id": "cit-004",
+      "name": "Meera Iyer",
+      "email": "meera.iyer@gmail.com",
+      "phone": "9840156789",
+      "role": "citizen",
+      "ward": "Ward 114 - T. Nagar, Chennai",
+      "createdAt": "2026-03-01T14:15:00.000Z",
+      "lastLogin": "2026-10-18T05:45:00.000Z"
+    },
+    {
+      "id": "adm-001",
+      "name": "Commissioner Dr. K. Radhakrishnan",
+      "email": "commissioner@civicmap.gov.in",
+      "phone": "9800011122",
+      "badgeId": "KA-BBMP-ADM-01",
+      "role": "admin",
+      "department": "Central Municipal Administration & Urban Development (BBMP)",
+      "ward": "Municipal Commissioner",
+      "createdAt": "2025-11-01T08:00:00.000Z",
+      "lastLogin": "2026-10-18T10:39:45.885Z"
+    },
+    {
+      "id": "adm-002",
+      "name": "Manoj Patil",
+      "email": "manoj.patil@bbmp.gov.in",
+      "phone": "9800033344",
+      "badgeId": "KA-BBMP-ENG-42",
+      "role": "admin",
+      "department": "Roads & Infrastructure Department (BBMP)",
+      "ward": "Field Junior Engineer (Ward 150)",
+      "createdAt": "2026-01-10T08:00:00.000Z",
+      "lastLogin": "2026-10-18T08:15:00.000Z"
+    },
+    {
+      "id": "adm-003",
+      "name": "Dr. Sunita Verma",
+      "email": "sunita.verma@mcd.gov.in",
+      "phone": "9800055566",
+      "badgeId": "DL-MCD-SWM-18",
+      "role": "admin",
+      "department": "Solid Waste Management & Sanitation (MCD)",
+      "ward": "Sanitation Zonal Supervisor",
+      "createdAt": "2026-01-20T08:00:00.000Z",
+      "lastLogin": "2026-10-18T07:45:00.000Z"
+    },
+    {
+      "id": "cit-75672",
+      "name": "Kavita Rao",
+      "email": "9812345678@civicportal.gov.in",
+      "phone": "9812345678",
+      "role": "citizen",
+      "ward": "Ward 88 - Malleshwaram, Bengaluru",
+      "createdAt": "2026-10-18T10:36:15.672Z",
+      "lastLogin": "2026-10-18T10:36:15.672Z"
+    },
+    {
+      "id": "cit-80222",
+      "name": "Priya Sharma",
+      "email": "9876543210@civicportal.gov.in",
+      "phone": "9876543210",
+      "role": "citizen",
+      "ward": "Ward 150 - Bellandur, Bengaluru",
+      "createdAt": "2026-10-18T10:39:40.222Z",
+      "lastLogin": "2026-10-18T10:39:40.222Z"
+    }
+  ],
+  "otps": [
+    {
+      "id": "otp-1792319976840",
+      "phone": "9876543210",
+      "code": "560001",
+      "role": "citizen",
+      "expiresAt": "2026-10-18T10:44:36.840Z",
+      "attempts": 0,
+      "verified": true,
+      "createdAt": "2026-10-18T10:39:36.840Z"
+    },
+    {
+      "id": "otp-1792319852787",
+      "phone": "8688258008",
+      "code": "491610",
+      "role": "citizen",
+      "expiresAt": "2026-10-18T10:42:32.787Z",
+      "attempts": 0,
+      "verified": true,
+      "createdAt": "2026-10-18T10:37:32.787Z"
+    },
+    {
+      "id": "otp-1792319764603",
+      "phone": "9812345678",
+      "code": "402152",
+      "role": "citizen",
+      "expiresAt": "2026-10-18T10:41:04.602Z",
+      "attempts": 0,
+      "verified": true,
+      "createdAt": "2026-10-18T10:36:04.602Z"
+    },
+    {
+      "id": "otp-1792319751652",
+      "phone": "9876543210",
+      "code": "560001",
+      "role": "citizen",
+      "expiresAt": "2026-10-18T10:40:51.652Z",
+      "attempts": 0,
+      "verified": true,
+      "createdAt": "2026-10-18T10:35:51.652Z"
+    }
+  ],
+  "smsLogs": [
+    {
+      "id": "sms-1792319976840",
+      "phone": "9876543210",
+      "formattedPhone": "+91 98765 43210",
+      "message": "Govt. of India Civic Portal: Your mobile login OTP is 560001. Valid for 5 minutes. Do not share with anyone. [Ref: #CIVIC-3210]",
+      "otp": "560001",
+      "status": "DELIVERED",
+      "carrier": "TRAI DLT Verified Gateway (NIC/Govt SMS)",
+      "sentAt": "2026-10-18T10:39:36.840Z"
+    },
+    {
+      "id": "sms-1792319852787",
+      "phone": "8688258008",
+      "formattedPhone": "+91 86882 58008",
+      "message": "Govt. of India Civic Portal: Your mobile login OTP is 491610. Valid for 5 minutes. Do not share with anyone. [Ref: #CIVIC-8008]",
+      "otp": "491610",
+      "status": "DELIVERED",
+      "carrier": "TRAI DLT Verified Gateway (NIC/Govt SMS)",
+      "sentAt": "2026-10-18T10:37:32.787Z"
+    },
+    {
+      "id": "sms-1792319764603",
+      "phone": "9812345678",
+      "formattedPhone": "+91 98123 45678",
+      "message": "Govt. of India Civic Portal: Your mobile login OTP is 402152. Valid for 5 minutes. Do not share with anyone. [Ref: #CIVIC-5678]",
+      "otp": "402152",
+      "status": "DELIVERED",
+      "carrier": "TRAI DLT Verified Gateway (NIC/Govt SMS)",
+      "sentAt": "2026-10-18T10:36:04.602Z"
+    },
+    {
+      "id": "sms-1792319751652",
+      "phone": "9876543210",
+      "formattedPhone": "+91 98765 43210",
+      "message": "Govt. of India Civic Portal: Your mobile login OTP is 560001. Valid for 5 minutes. Do not share with anyone. [Ref: #CIVIC-3210]",
+      "otp": "560001",
+      "status": "DELIVERED",
+      "carrier": "TRAI DLT Verified Gateway (NIC/Govt SMS)",
+      "sentAt": "2026-10-18T10:35:51.652Z"
+    },
+    {
+      "id": "sms-seed-1",
+      "phone": "9876543210",
+      "formattedPhone": "+91 98765 43210",
+      "message": "Govt. of India Civic Portal: Your login OTP is 560001. Valid for 5 minutes. Do not share with anyone. [Ref: #CIVIC-3210]",
+      "otp": "560001",
+      "status": "DELIVERED",
+      "carrier": "TRAI DLT Verified Gateway (NIC/Govt SMS)",
+      "sentAt": "2026-10-18T08:00:00.000Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1792319985885",
+      "timestamp": "2026-10-18T10:39:45.885Z",
+      "actorName": "Commissioner Dr. K. Radhakrishnan",
+      "action": "OFFICER_ADMIN_LOGIN",
+      "complaintId": "",
+      "details": "Municipal Officer Commissioner Dr. K. Radhakrishnan (KA-BBMP-ADM-01) authenticated with authorized administrative privileges."
+    },
+    {
+      "id": "log-1792319980222",
+      "timestamp": "2026-10-18T10:39:40.222Z",
+      "actorName": "Priya Sharma",
+      "action": "CITIZEN_OTP_LOGIN",
+      "complaintId": "",
+      "details": "Priya Sharma logged in via verified mobile OTP (+91 9876543210). Authenticated via National Civic Database."
+    },
+    {
+      "id": "log-1792319971095",
+      "timestamp": "2026-10-18T10:39:31.095Z",
+      "actorName": "Priya Sharma",
+      "action": "CITIZEN_OTP_LOGIN",
+      "complaintId": "",
+      "details": "Priya Sharma logged in via verified mobile OTP (+91 8688258008). Authenticated via National Civic Database."
+    },
+    {
+      "id": "log-1792319785462",
+      "timestamp": "2026-10-18T10:36:25.462Z",
+      "actorName": "Commissioner Dr. K. Radhakrishnan",
+      "action": "OFFICER_ADMIN_LOGIN",
+      "complaintId": "",
+      "details": "Municipal Officer Commissioner Dr. K. Radhakrishnan (KA-BBMP-ADM-01) authenticated with authorized administrative privileges."
+    },
+    {
+      "id": "log-1792319775672",
+      "timestamp": "2026-10-18T10:36:15.672Z",
+      "actorName": "Kavita Rao",
+      "action": "CITIZEN_OTP_LOGIN",
+      "complaintId": "",
+      "details": "Kavita Rao logged in via verified mobile OTP (+91 9812345678). Authenticated via National Civic Database."
+    },
+    {
+      "id": "log-1792319760058",
+      "timestamp": "2026-10-18T10:36:00.058Z",
+      "actorName": "Priya Sharma",
+      "action": "CITIZEN_OTP_LOGIN",
+      "complaintId": "",
+      "details": "Priya Sharma logged in via verified mobile OTP (+91 9876543210). Authenticated via National Civic Database."
+    },
+    {
+      "id": "log-1",
+      "timestamp": "2026-10-16T10:15:49.276Z",
+      "actorName": "Commissioner Dr. K. Radhakrishnan",
+      "action": "ASSIGN_DEPARTMENT",
+      "complaintId": "CIV-2026-1041",
+      "details": "Assigned to BBMP Road Infrastructure & Public Works with HIGH priority."
+    },
+    {
+      "id": "log-2",
+      "timestamp": "2026-10-17T10:15:49.276Z",
+      "actorName": "Commissioner Dr. K. Radhakrishnan",
+      "action": "RESOLVE_COMPLAINT",
+      "complaintId": "CIV-2026-1035",
+      "details": "Verified post-repair luminaire photo and closed ticket as RESOLVED."
+    }
+  ]
+}

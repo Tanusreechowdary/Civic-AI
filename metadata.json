@@ -1,0 +1,6 @@
+{
+  "name": "CivicMap AI — Smart Civic Issue Mapping & Resolution",
+  "description": "AI-powered civic issue reporting, geospatial mapping, automated categorization, duplicate detection, and municipal resolution tracking system.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
